@@ -1,7 +1,6 @@
 <img align="center" width="100%" alt="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyIcBDQOF3QYEB71H3hJzSor2-_ZYOJbqKgMDq0VNwSA&s">
 <h1 align="center">Hi
-  <iframe src="https://giphy.com/embed/3cAPAchWebxQRoJK1O" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/drloudpack-clubhouse-drloud-rant-and-rost-club-3cAPAchWebxQRoJK1O">
-    
+ 
   </a></p>, I'm Sunnat0401</h1>
 
 <p align="center">
