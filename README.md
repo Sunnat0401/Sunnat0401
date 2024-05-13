@@ -1,5 +1,11 @@
 <img align="center" width="100%" alt="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyIcBDQOF3QYEB71H3hJzSor2-_ZYOJbqKgMDq0VNwSA&s">
 <h1 align="center">Hi 👋, I'm Sunnat0401</h1>
+
+<p align="center">
+  <img src="https://path/to/your/animated.gif" alt="Animated text">
+</p>
+
+<h2 align="center">Welcome to my profile!</h2>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnat0401&label=Profile%20views&color=0e75b6&style=flat" alt="sunnat0401" /> </p>
