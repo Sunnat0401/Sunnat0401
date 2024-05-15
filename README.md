@@ -1,10 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sunnat!;" />
+    
+Welcome to my profile!
 </h1>
 
 
 
-<h2 align="center">Welcome to my profile!</h2>
 <img align="center" width="100%" alt="logo" src="https://e0.pxfuel.com/wallpapers/382/344/desktop-wallpaper-web-development-front-end.jpg">
 <p align="center">
   <img src="https://path/to/your/animated.gif" alt="Animated text">
