@@ -1,7 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm I'm Sunnat!;" />
+</h1>
+
 <img align="center" width="100%" alt="logo" src="https://e0.pxfuel.com/wallpapers/382/344/desktop-wallpaper-web-development-front-end.jpg">
-<h1 align="center">Hi
- 
-  </a></p>, I'm Sunnat0401</h1>
 
 <p align="center">
   <img src="https://path/to/your/animated.gif" alt="Animated text">
