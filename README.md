@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyIcBDQOF3QYEB71H3hJzSor2-_ZYOJbqKgMDq0VNwSA&s">
+<img align="center" width="100%" alt="logo" src="file:///C:/Users/New/Downloads/Telegram%20Desktop/IMG_0396.JPG">
 <h1 align="center">Hi
  
   </a></p>, I'm Sunnat0401</h1>
