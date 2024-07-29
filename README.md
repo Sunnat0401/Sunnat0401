@@ -60,7 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
   <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg" alt="Zustand" width="40" height="40"/>
+    <img src="[https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWRpRH8pgSN-uisFF2VYEojTIAGvprVjjuhW7eTIZquQqd4-krzWKwC1HgmChu_h-ujwMRZssIseEmPcVvnUke3hT0mn_EQ7GVge-2S8JTfIdejqrF-yLa5LQ4wZfrmn4zjI1H8zOuUhAXgQHVMY5AhISsBZVPlLo_4uu6JpIkW1INu8ATMgzFIhtEEL2w/w1200-h630-p-k-no-nu/zustand-react-native-async-storage.png)" alt="Zustand" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
