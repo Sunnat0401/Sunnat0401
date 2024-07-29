@@ -74,13 +74,13 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<p >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnat0401&show_icons=true&locale=en&layout=compact" alt="sunnat0401" />
 </p>
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnat0401&show_icons=true&locale=en" alt="sunnat0401" />
 </p>
-<p align="center">
+<p >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnat0401&" alt="sunnat0401" />
 </p>
 
