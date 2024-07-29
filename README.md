@@ -1,18 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sunnat!;" />
-    
 Welcome to my profile!
 </h1>
-
-
-
 <img align="center" width="100%" alt="logo" src="https://e0.pxfuel.com/wallpapers/382/344/desktop-wallpaper-web-development-front-end.jpg">
 <p align="center">
   <img src="https://path/to/your/animated.gif" alt="Animated text">
 </p>
-
-
-
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnat0401&label=Profile%20views&color=0e75b6&style=flat" alt="sunnat0401" /> </p>
